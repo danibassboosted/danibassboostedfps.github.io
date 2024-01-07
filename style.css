@@ -683,6 +683,12 @@ button.button_afdfd9 /* small buttons */,
     top: 13px;
 }
 
+/* custom styles for corner text */
+#corner-text {
+    color: var(--corner-text-color);
+    /* Agrega otros estilos según sea necesario */
+}
+
 .theme-light {
 	--text-link: var(--accent-5);
 }
