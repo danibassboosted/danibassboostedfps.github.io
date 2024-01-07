@@ -55,7 +55,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
+	--moon-icon-url: url('https://cdn.discordapp.com/attachments/1125117045822984236/1193629867753869433/Untitled_2.png?ex=65ad6971&is=659af471&hm=dfe160f39ea4d086aee9698116a1b797363ae644c5d052f4d8c88d5bb8b7ff0e&'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
@@ -683,10 +683,10 @@ button.button_afdfd9 /* small buttons */,
     top: 13px;
 }
 
-/* custom styles for corner text */
-#corner-text {
-    color: var(--corner-text-color);
-    /* Agrega otros estilos según sea necesario */
+.childWrapper__01b9c {
+  background: var(--azurite-home-icon) center/cover no-repeat;
+  min-width: 75px;
+  min-height: 75px;
 }
 
 .theme-light {
