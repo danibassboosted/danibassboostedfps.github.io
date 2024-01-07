@@ -670,6 +670,19 @@ button.button_afdfd9 /* small buttons */,
 	margin-left: 18px;
 }
 
+.modeSelected__487d6 .link__95dc0::before {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color: var(--selected-indicator);
+    box-shadow: 0 0 20px 4px var(--selected-indicator);
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    left: -9px;
+    top: 13px;
+}
+
 .theme-light {
 	--text-link: var(--accent-5);
 }
