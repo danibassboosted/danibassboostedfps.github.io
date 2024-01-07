@@ -55,6 +55,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
+        --azurite-home-icon: url('https://cdn.discordapp.com/attachments/1125117045822984236/1193629867753869433/Untitled_2.png&size=4096');
 	--moon-icon-url: url('https://cdn.discordapp.com/attachments/1125117045822984236/1193629867753869433/Untitled_2.png?ex=65ad6971&is=659af471&hm=dfe160f39ea4d086aee9698116a1b797363ae644c5d052f4d8c88d5bb8b7ff0e&'); /* custom icon url */
 	--moon-icon-size: auto;
 
